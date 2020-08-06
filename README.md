@@ -10,5 +10,5 @@ I'm an algorithm engineer who focused on AI. My main research direction is compu
 
 - [cn-python](http://www.cn-python.com/)
 - [CSDN](https://blog.csdn.net/qq_36285997)
-- Github.(Of course, you are here)
+- [Github](https://github.com/yatengLG).(Of course, you are here)
 
