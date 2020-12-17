@@ -5,7 +5,7 @@ I'm an algorithm engineer who focused on AI. My main research direction is compu
 </p>
 
 
-<h3> Occasionally share articles about python and AI<img align="left" width="120" height="120" alt='yatengLG-logo' src="http://39.96.58.60/wp-content/uploads//2020/12/LG-1.svg"></h3>
+<h3> Occasionally share articles about python and AI<img align="left" width="120" height="120" alt='yatengLG-logo' src="https://github.com/yatengLG/yatengLG/blob/master/LG.png"></h3>
 
 
 - You can find me at <strong>[yatengLG](http://www.yatenglg.cn)</strong>
