@@ -5,10 +5,10 @@ I'm an algorithm engineer who focused on AI. My main research direction is compu
 </p>
 
 
-<h3> Occasionally share articles about python and AI<img align="left" width="120" height="120" alt='cn-python-logo' src="https://github.com/yatengLG/yatengLG/blob/master/%E5%9B%BE%E6%A0%87512.png"></h3>
+<h3> Occasionally share articles about python and AI<img align="left" width="120" height="120" alt='yatengLG-logo' src="http://39.96.58.60/wp-content/uploads//2020/12/LG-1.svg"></h3>
 
 
-- <strong>cn-python</strong> is a Python knowledge sharing website, including python and AI etc.
+- You can find me at <strong>[yatengLG](http://www.yatenglg.cn)</strong>
 -  Most of the shared code is posted in [Github](https://github.com/yatengLG).(Of course, you are here)
 - [CSDN](https://blog.csdn.net/qq_36285997)
 
