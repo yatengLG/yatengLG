@@ -8,7 +8,7 @@ I'm an algorithm engineer who focused on AI. My main research direction is compu
 <h3> Occasionally share articles about python and AI</h3>
 
 
-- You can find me at <strong>[yatengLG](http://www.yatenglg.cn/blog)</strong> (云服务器到期，正在重新备案...)
+- You can find me at <strong>[yatengLG](http://www.yatenglg.cn)</strong> (云服务器到期，正在重新备案...)
 
 -  Most of the shared code is posted in [Github](https://github.com/yatengLG).(Of course, you are here)
 - [CSDN](https://blog.csdn.net/qq_36285997)
